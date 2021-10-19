@@ -1043,7 +1043,7 @@ img{
         justify-self: center;
     }
 
-    .about__container,
+    /*.about__container,*/
     .portfolio__content,
     .project__container,
     .footer__container{
